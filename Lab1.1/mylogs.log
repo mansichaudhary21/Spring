@@ -1,0 +1,156 @@
+2020-04-16 22:20:05 DEBUG ClassPathXmlApplicationContext:594 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6bf2d08e
+2020-04-16 22:20:05 DEBUG XmlBeanDefinitionReader:395 - Loaded 1 bean definitions from class path resource [beans.xml]
+2020-04-16 22:20:06 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-16 22:20:06 DEBUG ClassPathXmlApplicationContext:594 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6bf2d08e
+2020-04-16 22:20:06 DEBUG XmlBeanDefinitionReader:395 - Loaded 1 bean definitions from class path resource [beans.xml]
+2020-04-16 22:20:06 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-16 22:30:53 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d
+2020-04-16 22:30:53 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-16 22:30:53 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\Employee.class]
+2020-04-16 22:30:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-16 22:30:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-16 22:30:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-16 22:30:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-16 22:30:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-04-16 22:30:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-16 22:31:53 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d
+2020-04-16 22:31:53 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-16 22:31:53 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\Employee.class]
+2020-04-16 22:31:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-16 22:31:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-16 22:31:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-16 22:31:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-16 22:31:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-04-16 22:31:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-16 22:33:05 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4f8e5cde
+2020-04-16 22:33:05 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-16 22:33:06 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\Employee.class]
+2020-04-16 22:33:06 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-16 22:33:06 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-16 22:33:06 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-16 22:33:06 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-16 22:33:06 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-04-16 22:33:06 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-16 22:33:32 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d
+2020-04-16 22:33:32 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-16 22:33:32 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\Employee.class]
+2020-04-16 22:33:33 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-16 22:33:33 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-16 22:33:33 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-16 22:33:33 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-16 22:33:33 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-04-16 22:33:33 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-16 23:17:21 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d
+2020-04-16 23:17:22 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-16 23:17:22 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\Employee.class]
+2020-04-16 23:17:22 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-16 23:17:22 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-16 23:17:22 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-16 23:17:22 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-16 23:17:22 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-04-16 23:17:23 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-16 23:48:53 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d
+2020-04-16 23:48:53 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-16 23:48:53 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\Employee.class]
+2020-04-16 23:48:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-16 23:48:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-16 23:48:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-16 23:48:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-16 23:48:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-04-16 23:48:54 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-16 23:48:54 WARN  AnnotationConfigApplicationContext:557 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'employee': Unsatisfied dependency expressed through method 'setSbu' parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.capg.app.SBU' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2020-04-16 23:49:48 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d
+2020-04-16 23:49:48 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-16 23:49:49 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\Employee.class]
+2020-04-16 23:49:49 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\SBU.class]
+2020-04-16 23:49:49 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-16 23:49:49 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-16 23:49:49 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-16 23:49:49 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-16 23:49:49 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-04-16 23:49:49 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-16 23:49:49 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'SBU'
+2020-04-16 23:50:21 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d
+2020-04-16 23:50:21 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-16 23:50:22 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\Employee.class]
+2020-04-16 23:50:22 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\SBU.class]
+2020-04-16 23:50:22 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-16 23:50:22 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-16 23:50:22 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-16 23:50:22 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-16 23:50:22 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-04-16 23:50:22 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-16 23:50:22 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'SBU'
+2020-04-17 00:05:41 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d
+2020-04-17 00:05:41 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-17 00:05:42 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\Employee.class]
+2020-04-17 00:05:42 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\SBU.class]
+2020-04-17 00:05:42 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-17 00:05:42 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-17 00:05:42 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-17 00:05:42 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-17 00:05:42 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-04-17 00:05:42 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-17 00:05:42 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'SBU'
+2020-04-17 00:12:30 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d
+2020-04-17 00:12:30 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-17 00:12:30 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\Employee.class]
+2020-04-17 00:12:30 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\SBU.class]
+2020-04-17 00:12:31 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-17 00:12:31 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-17 00:12:31 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-17 00:12:31 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-17 00:12:31 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-04-17 00:12:31 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-17 00:12:31 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'SBU'
+2020-04-17 00:14:06 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d
+2020-04-17 00:14:06 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-17 00:14:07 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\Employee.class]
+2020-04-17 00:14:07 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\SBU.class]
+2020-04-17 00:14:07 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-17 00:14:07 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-17 00:14:07 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-17 00:14:07 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-17 00:14:07 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-04-17 00:14:07 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-17 00:14:07 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'SBU'
+2020-04-17 00:15:09 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d
+2020-04-17 00:15:09 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-17 00:15:10 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\Employee.class]
+2020-04-17 00:15:10 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\SBU.class]
+2020-04-17 00:15:10 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-17 00:15:10 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-17 00:15:10 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-17 00:15:10 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-17 00:15:10 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-04-17 00:15:10 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-17 00:15:10 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'SBU'
+2020-04-17 00:16:39 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@759ebb3d
+2020-04-17 00:16:39 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-17 00:16:40 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\Employee.class]
+2020-04-17 00:16:40 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\SBU.class]
+2020-04-17 00:16:40 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-17 00:16:40 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-17 00:16:40 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-17 00:16:40 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-17 00:16:40 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-04-17 00:16:40 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-17 00:16:40 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'SBU'
+2020-04-17 00:30:51 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@3b764bce
+2020-04-17 00:30:51 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-17 00:30:51 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\Employee.class]
+2020-04-17 00:30:52 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-17 00:30:52 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-17 00:30:52 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-17 00:30:52 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-17 00:30:52 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-04-17 00:30:52 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
+2020-04-17 00:40:59 DEBUG AnnotationConfigApplicationContext:594 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4f8e5cde
+2020-04-17 00:40:59 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2020-04-17 00:40:59 DEBUG ClassPathBeanDefinitionScanner:437 - Identified candidate component class: file [C:\Users\Mansi\Documents\workspace-spring-tool-suite-4-4.6.0.RELEASE\Lab1.1\target\classes\com\capg\app\Employee.class]
+2020-04-17 00:41:00 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2020-04-17 00:41:00 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2020-04-17 00:41:00 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2020-04-17 00:41:00 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2020-04-17 00:41:00 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'javaConfig'
+2020-04-17 00:41:00 DEBUG DefaultListableBeanFactory:213 - Creating shared instance of singleton bean 'employee'
